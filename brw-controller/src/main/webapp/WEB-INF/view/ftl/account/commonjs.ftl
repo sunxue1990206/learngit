@@ -1,0 +1,11 @@
+<script>var basePath="${rc.contextPath}"</script>
+<script src="${rc.contextPath}/resources/js/jquery-1.7.min.js"></script>
+<script src="${rc.contextPath}/resources/js/common.js"></script>
+<script src="${rc.contextPath}/resources/js/inputverify.js"></script>
+<script src="${rc.contextPath}/resources/js/date.js"></script>
+<script src="${rc.contextPath}/resources/js/timepicker.js"></script>
+<script src="${rc.contextPath}/resources/js/help.js"></script>
+<script src="${rc.contextPath}/resources/js/util.js"></script>
+<script src="${rc.contextPath}/resources/js/account/transfercommon.js"></script>
+<script src="${rc.contextPath}/resources/js/jquery.pager.js"></script>
+<script src="${rc.contextPath}/resources/js/PagerConfigure.js"></script>

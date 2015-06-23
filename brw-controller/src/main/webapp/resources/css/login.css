@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*登录*/
+.login{ background-color:#fafafa;  height:518px;}
+		.login_img img{margin-top:55px; max-width:100%;}
+	.login_form{ background-color:#fff; border:1px solid #d2d2d2; height:380px; width:100%; overflow:hidden;}
+	.login_form.b_none{border:none;}
+		.login_form ul{ margin:37px 43px 0 43px;}
+			.login_form .mbd10{_margin-bottom:10px;*margin-bottom:10px;}
+				.password .focus_div,.username .focus_div{width:248px;}
+					.password input,.username input{width:215px; margin:6px 0;}
+					.login_form .user_icon{ margin-top:7px;}
+					.login_form .pword_icon{ margin-top:5.5px;}
+			.forget{ padding-right:5px;}
+			.login_form .notice_input{ line-height:normal; height:auto;}
+				.forget input{vertical-align:middle; margin-top:-3px; _margin-top:-1px; margin-right:5px;}
+					
+/*找回登录密码_短信验证*/
+.find_sms{ padding-bottom:40px;}
+	
+		.sms_captcha{width:63px;}
+			.step_text .sms_captcha input{width:100%;}
+
+/*注册*/
+.register{padding-bottom:40px;}
+.line_hauto .notice_input,.line_hauto label{height: auto;line-height: normal;}
+.line_hauto .notice_input{_margin-top:-13px;}
+
+/*注册_填写账户信息*/
+.register label span{ padding-right:4px;}

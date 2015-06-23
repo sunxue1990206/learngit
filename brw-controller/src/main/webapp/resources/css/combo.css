@@ -1,0 +1,515 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*银行logo*/		
+.bank_logo{ height:30px; width:126px; display:inline-block; background-image:url(../images/combo.png); background-repeat:no-repeat; overflow:hidden; }
+.ny_logo{ background-position: 50% -2px;} /*农业银行*/
+.ly_logo{ background-position: 50% -3783px;} /*辽阳银行*/
+.lz_logo{ background-position: 50% -3820px;} /*兰州银行*/
+
+
+.zjmtsy_logo{ background-position: 50% -3856px;} /*浙江民泰商业银行*/
+.nb_logo{ background-position: 50% -3893px;} /*宁波银行*/
+.yz_logo{ background-position: 50% -3929px;} /*鄞州银行*/
+.nc_logo{ background-position:18px -3966px;} /*南昌银行*/
+.nhns_logo{ background-position: 50% -4001px;} /*南海农商银行*/
+.nj_logo{ background-position: 50% -4072px;} /*南京银行*/
+.nx_logo{ background-position: 50% -4107px;} /*宁夏银行*/
+.LYBANK{ background-position: 0 -5970px;} /*洛阳银行*/
+
+.CDB {
+    background-position: 0 -972px;
+}/*国家开发银行*/
+
+.ICBC {
+    background-position: 0 -2990px;
+}/*中国工商银行*/
+
+
+.ABC {
+    background-position: 0 0;
+}/*中国农业银行*/
+.BOC {
+    background-position: 0 -324px;
+}/*中国银行*/
+.CCB {
+    background-position: 0 -903px;
+}/*中国建设银行*/
+.PSBC {
+
+    background-position: 0 -4248px;
+}/*中国邮政储蓄银行*/
+
+.COMM {
+    background-position: 0 -1296px;
+}/*交通银行*/
+.CMB {
+    background-position: 0 -1224px;
+}/*招商银行*/
+
+.SPDB {
+    background-position: 0 -4644px;
+}/*上海浦东发展银行*/
+.CIB {
+    background-position: 0 -1152px;
+}/*兴业银行*/
+.HXBANK {
+    background-position: 0 -2880px;
+}/*华夏银行*/
+.GDB {
+    background-position: 0 -2018px;
+}/*广东发展银行*/
+.CMBC {
+    background-position: 0 -1263px;
+}/*中国民生银行*/
+
+
+.CITIC {
+    background-position: 0 -1188px;
+}/*中信银行*/
+.CEB {
+    background-position: 0 -1080px;
+}/*中国光大银行*/
+.EGBANK {
+    background-position: 0 -1800px;
+}/*恒丰银行*/
+
+.CZBANK {
+    background-position: 0 -1476px;
+}/*浙商银行*/
+.BOHAIB {
+    background-position: 0 -504px;
+}/*渤海银行*/
+.SPABANK {
+    background-position: 0 -4608px;
+}
+/*平安银行*/
+
+
+.HKBEA {
+    background-position: 0 -2628px;
+}
+/*东亚银行*/
+.HANABANK {
+    background-position: 0 -2376px;
+}/*韩亚银行*/
+.SHRCB {
+    background-position: 0 -4536px;
+}/*上海农村商业银行*/
+.YXCCB {
+    background-position: 0 -5616px;
+}/*玉溪市商业银行*/
+.YDRCB {
+    background-position: 0 -5508px;
+}/*尧都农商行*/
+.BJBANK {
+    background-position: 0 -252px;
+}/*北京银行*/
+.SHBANK {
+    background-position: 0 -4500px;
+}
+/*上海银行*/
+.JSBANK {
+    background-position: 0 -3312px;
+}/*江苏银行*/
+
+
+.HZCB {
+    background-position: 0 -2916px;
+}/*杭州银行*/
+.NJCB {
+    background-position: 0 -4068px;
+}/*南京银行*/
+.NBBANK {
+    background-position: 0 -3888px;
+}/*宁波银行*/
+.HSBANK {
+    background-position: 0 -2772px;
+}/*徽商银行*/
+.CSCB {
+    background-position: 0 -1404px;
+}/*长沙银行*/
+.CDCB {
+    background-position: 0 -1008px;
+}/*成都银行*/
+.CQBANK {
+    background-position: 0 -1332px;
+}/*重庆银行*/
+.DLB {
+    background-position: 0 -1620px;
+}/*大连银行*/
+
+.NCB {
+    background-position: 0 -3960px;
+}/*南昌银行*/
+.FJHXBC {
+    background-position: 0 -1872px;
+}/*福建海峡银行*/
+.HKB {
+    background-position: 0 -2592px;
+}/*汉口银行*/
+.WZCB {
+    background-position: 0 -5220px;
+}/*温州银行*/
+.QDCCB {
+    background-position: 0 -4284px;
+}/*青岛银行*/
+.TZCB {
+    background-position: 0 -5004px;
+}/*台州银行*/
+
+
+
+
+
+.JXBANK {
+    background-position: 0 -3384px;
+}/*嘉兴银行*/
+.CSRCB {
+    background-position: 0 -1440px;
+}/*常熟农村商业银行*/
+
+.NHB {
+    background-position: 0 -3996px;
+}
+/*南海农村信用联社*/
+.CZRCB {
+    background-position: 0 -1548px;
+}/*江南农村商业银行*/
+.H3CB {
+    background-position: 0 -2340px;
+}/*内蒙古银行*/
+.SXCB {
+    background-position: 0 -4752px;
+}/*绍兴银行*/
+.SDEB {
+    background-position: 0 -4428px;
+}/*顺德农商银行*/
+.WJRCB {
+    background-position: 0 -5148px;
+}/*吴江农商银行*/
+.ZBCB {
+    background-position: 0 -5652px;
+}/*齐商银行*/
+
+.GYCB {
+    background-position: 0 -2232px;
+}/*贵阳市商业银行*/
+.ZYCBANK {
+    background-position: 0 -5870px;
+}/*贵州银行*/
+.HZCCB {
+    background-position: 0 -2952px;
+}/*湖州市商业银行*/
+.DAQINGB {
+    background-position: 0 -1584px;
+}
+/*龙江银行*/
+.JINCHB {
+    background-position: 0 -3060px;
+}/*晋城银行*/
+.ZJTLCB {
+    background-position: 0 -5796px;
+}/*浙江泰隆商业银行*/
+.GDRCC {
+    background-position: 0 -2052px;
+}/*广东省农村信用社联合社*/
+
+
+.DRCBCL {
+    background-position: 0 -1656px;
+}/*东莞农村商业银行*/
+.MTBANK {
+    background-position: 0 -3852px;
+}/*浙江民泰商业银行*/
+.GCB {
+    background-position: 0 -1980px;
+}
+/*广州银行*/
+.LYCB {
+    background-position: 0 -3780px;
+}/*辽阳市商业银行*/
+
+.JSRCU {
+    background-position: 0 -3352px;
+}
+/*江苏省农村信用联合社*/
+.LANGFB {
+    background-position: 0 -3600px;
+}/*廊坊银行*/
+.CZCB {
+    background-position: 0 -1512px;
+}
+/*浙江稠州商业银行*/
+
+
+.DYCB {
+    background-position: 0 -1692px;
+}/*德阳商业银行*/
+.JZBANK {
+    background-position: 0 -3456px;
+}/*晋中市商业银行*/
+.BOSZ {
+    background-position: 0 -648px;
+}/*苏州银行*/
+.GLBANK {
+    桂林银行-position: 0 -2088px;
+}/*中国农业银行*/
+.URMQCCB {
+    background-position: 0 -5040px;
+}/*乌鲁木齐市商业银行*/
+.CDRCB {
+    background-position: 0 -1044px;
+}
+/*成都农商银行*/
+.ZRCBANK {
+    background-position: 0 -5832px;
+}/*张家港农村商业银行*/
+
+
+.BOD {
+    background-position: 0 -432px;
+}/*东莞银行*/
+.LSBANK {
+    background-position: 0 -3636px;
+}/*莱商银行*/
+.BJRCB {
+    background-position: 0 -288px;
+}/*北京农村商业银行*/
+.TRCB {
+    background-position: 0 -4968px;
+}
+
+/*天津农商银行*/
+.SRBANK {
+    background-position: 0 -4680px;
+}/*上饶银行*/
+
+
+
+
+
+.FDB {
+    background-position: 0 -1836px;
+}
+/*富滇银行*/
+.CRCBANK {
+    background-position: 0 -1368px;
+}
+
+
+
+/*重庆农村商业银行*/
+.ASCB {
+    background-position: 0 -72px;
+}/*鞍山银行*/
+.NXBANK {
+    background-position: 0 -4104px;
+}/*宁夏银行*/
+.BHB {
+    background-position: 0 -216px;
+}
+
+/*河北银行*/
+
+
+
+
+.HRXJB {
+    background-position: 0 -2736px;
+}/*华融湘江银行*/
+.ZGCCB {
+    background-position: 0 -5688px;
+}/*自贡市商业银行*/
+.YNRCC {
+    background-position: 0 -5544px;
+}/*云南省农村信用社*/
+.JLBANK {
+    background-position: 0 -3132px;
+}/*吉林银行*/
+.DYCCB {
+    background-position: 0 -1728px;
+}/*东营市商业银行*/
+
+.KLB {
+    background-position: 0 -3492px;
+}/*昆仑银行*/
+.ORBANK {
+    background-position: 0 -4212px;
+}
+
+/*鄂尔多斯银行*/
+.XTB {
+    background-position: 0 -5364px;
+}/*邢台银行*/
+.JSB {
+    background-position: 0 -3276px;
+}
+/*晋商银行*/
+.TCCB {
+    background-position: 0 -4896px;
+}/*天津银行*/
+
+
+.LYBANK{ background-position: 0 -5970px;} /*洛阳银行*/
+
+.NYNB{ background-position: 50% -5940px;} /*广东南粤银行*/
+
+.HNRCC {background-position: 0px -2665px;}/*湖南省农村信用社*/
+
+.HURCB {background-position: 0px -2847px;}/*湖北省农村信用社*/
+
+.ARCU {background-position: 0px -37px;}/*安徽省农村信用社*/
+
+.AYCB {background-position: 0px -110px;}/*安阳银行*/
+
+.SCCB {background-position: 0px -4359px;}/*三门峡银行*/
+
+.DZBANK {background-position: 0px -1766px;}/*德州银行*/
+
+.BOZK {background-position: 0px -724px;}/*周口银行*/
+
+.LZYH {background-position: 0px -3819px;}/*兰州银行*/
+
+.BSB {background-position: 0px -759px;}/*包商银行*/
+
+.LSBC {background-position: 0px -3675px;}/*临商银行*/
+
+.BOCY {background-position: 0px -400px;}/*朝阳银行*/
+
+.JHBANK {background-position: 0px -3027px;}/*金华银行*/
+
+.BODD {background-position: 0px -470px;}/*丹东银行*/
+
+.BOCD {background-position: 0px -363px;}/*承德银行*/
+
+.HBC {background-position: 0px -2415px;}/*湖北银行*/
+
+.WHCCB {background-position: 0px -5080px;}/*威海市商业银行*/
+
+.CBKF {background-position: 0px -868px;}/*开封市商业银行*/
+
+.JNBANK {background-position: 0px -3206px;}/*济宁银行*/
+
+.XCYH {background-position: 0px -5295px;}/*许昌银行*/
+
+.ZJKCCB {background-position: 0px -5724px;}/*张家口市商业银行*/
+
+.NBYZ {background-position: 0px -3927px;}/*鄞州银行 */
+
+.XYBANK {background-position: 0px -5436px;}/*信阳银行*/
+
+.HSBK {background-position: 0px -2808px;}/*衡水银行*/
+
+.SZSBK {background-position: 0px -4824px;}/*石嘴山银行*/
+
+.KSRB {background-position: 0px -3564px;}/*昆山农村商业银行*/
+
+.YBCCB {background-position: 0px -5472px;}/*宜宾市商业银行*/
+
+.WHRCB {background-position: 0px -5112px;}/*武汉农村商业银行*/
+
+.SXRCCU {background-position: 0px -4792px;}/*陕西信合*/
+
+.GXRCU {background-position: 0px -2196px;}/*广西省农村信用*/
+
+.SCRCU {background-position: 0px -4392px;}/*四川省农村信用*/
+
+.GSRCU {background-position: 0px -2160px;}/*甘肃省农村信用*/
+
+.HNRCU {background-position: 0px -2703px;}/*河南省农村信用*/
+
+.JXRCU {background-position: 0px -3420px;}/*江西省农村信用*/
+
+.JJBANK {background-position: 0px -3096px;}/*九江银行*/
+
+.BANKWF {background-position: 0px -144px;}/*潍坊银行*/
+
+.SRCB {background-position: 0px -4716px;}/*深圳农村商业银行*/
+
+.ZZBANK {background-position: 0px -5904px;}/*郑州银行*/
+
+.FSCB {background-position: 0px -1912px;}/*抚顺银行*/
+
+.SJBANK {background-position: 0px -4575px;}/*盛京银行*/
+
+.YQCCB {background-position: 0px -5585px;}/*阳泉市商业银行*/
+
+.BOQH {background-position: 0px -612px;}/*青海银行*/
+
+.QLBANK {background-position: 0px -4320px;}/*齐鲁银行*/
+
+.CZBANK {background-position: 0px -1476px;}/*浙商银行*/
+
+.BOJZ {background-position: 0px -540px;}/*锦州银行*/
+
+.KORLABANK {background-position: 0px -3528px;}/*库尔勒市商业银行*/
+
+.HDBANK {background-position: 0px -2559px;}/*邯郸银行*/
+
+.XLBANK {background-position: 0px -5328px;}/*中山小榄村镇银行*/
+
+.CCQTGB {background-position: 0px -936px;}/*重庆三峡银行*/
+
+.CGNB {background-position: 0px -1119px;}/*南充市商业银行*/
+
+.TACCB {background-position: 0px -4864px;}/*泰安市商业银行*/
+
+.BOP {background-position: 0px -579px;}/*平顶山银行*/
+
+.JRCB {background-position: 0px -3240px;}/*江苏江阴农村商业银行*/
+
+.GRCB {background-position: 0px -2124px;}/*广州农商银行*/
+
+.BGB {background-position: 0px -180px;}/*广西北部湾银行*/
+
+.WRCB {background-position: 0px -5184px;}/*无锡农村商业银行*/
+
+.GZB {background-position: 0px -2268px;}/*赣州银行*/
+
+.BZMD {background-position: 0px -792px;}/*中原银行*/
+
+.TCRCB {background-position: 0px -4937px;}/*江苏太仓农村商业银行*/
+
+.LSCCB {background-position: 0px -3708px;}/*乐山市商业银行*/
+
+.HBYCBANK {background-position: 0px -2520px;}/*湖北银行宜昌分行*/
+
+.XXBANK {background-position: 0px -5403px;}/*新乡银行*/
+
+.ZJNX {background-position: 0px -5760px;}/*浙江省农村信用社联合社*/
+
+.HBHSBANK {background-position: 0px -2451px;}/*湖北银行黄石分行*/
+
+.FXCB {background-position: 0px -1944px;}/*阜新银行*/
+
+.GZRCU {background-position: 0px -2304px;}/*贵州省农村信用社*/
+
+.NXRCU {background-position: 0px -4140px}/*宁夏黄河农村商业银行*/
+
+.HBRCU {background-position: 0px -2484px;}/*河北省农村信用社*/
+
+.XABANK {background-position: 0px -5258px;}/*西安银行*/
+
+.SDRCU {background-position: 0px -4466px;}/*山东农信*/
+
+.JLRCU {background-position: 0px -3171px;}/*吉林农信*/
+
+.BOYK {background-position: 0px -688px;}/*营口银行*/
+
+.YBZF{background-position: 0px -6003px;}/*易宝支付*/
+
+.CFT{background-position: 0px -6040px;}/*财付通*/
+
+.tl{background-position: 0px -6073px;}/*通联支付*/
+
+.gfb{background-position: 0px -6105px;}/*国付宝*/
+
+.wyzx{background-position: 0px -6135px;}/*网银在线*/
+
+.LSSH{background-position: 0px -6170px;}/*乐山商行*/
+
+.XZYH{background-position: 0px -6203px;}/*泉州银行*/
+
+.MYSH{background-position: 0px -6235px;}/*绵阳商行*/
+

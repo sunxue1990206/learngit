@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<interruptedexception key="java.lang.InterruptedException" code="6005"></interruptedexception>
+	<nosuchalgorithmexception key="java.security.NoSuchAlgorithmException" code="6004"></nosuchalgorithmexception>
+	<sqlexception key="java.sql.SQLException" code="6002"></sqlexception>
+	<illegalargumentexception key="java.lang.IllegalArgumentException" code="6003"></illegalargumentexception>
+	<resultbeanexception key="com.hyh.util.core.exception.ResultBeanException" code="6006"></resultbeanexception>
+	<exception key="java.lang.Exception" code="6000"></exception>
+</root>

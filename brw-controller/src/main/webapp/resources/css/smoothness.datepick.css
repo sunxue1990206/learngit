@@ -1,0 +1,220 @@
+
+#datepick-div, .datepick-inline {
+	font-family: Arial,Helvetica,sans-serif;
+	font-size: 14px;
+	padding: 0;
+	margin: 0 0 0 20px;
+	background: #fff;
+	color: #222;
+	width: 820px;
+}
+#datepick-div {
+	display: none;
+	border: 1px solid #aaa;
+	z-index: 100;
+}
+#datepick-div a, .datepick-inline a {
+	
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+	text-align:center;
+}
+.datepick-inline {
+	
+	display: block;
+	border: 0;
+	position:relative;
+
+}
+.datepick-rtl {
+	direction: rtl;
+}
+.datepick-dialog {
+	padding: 5px !important;
+	border: 4px ridge #aaa !important;
+}
+.datepick-disabled {
+	position: absolute;
+	z-index: 100;
+	background-color: white;
+	opacity: 0.5;
+	filter: alpha(opacity=50);
+}
+button.datepick-trigger {
+	width: 25px;
+}
+img.datepick-trigger {
+	margin: 2px;
+	vertical-align: middle;
+}
+.datepick-prompt {
+	float: left;
+	padding: 2px;
+}
+* html .datepick-prompt {
+	width: 820px;
+}
+.datepick-control, .datepick-links, .datepick-header, .datepick {
+	clear: both;
+	float: left;
+	width: 100%;
+	color: #222;
+}
+
+.datepick-links {
+	background: #fff;
+	padding: 2px 0;
+}
+
+.datepick-links label {
+	padding: 2px 5px;
+	color: #888;
+}
+
+.datepick-rtl .datepick-clear, .datepick-rtl .datepick-prev {
+
+	text-align: right;
+}
+.datepick-current {
+	width:80px; height:25px; line-height:25px; position:absolute; left:180px; top:23px;*top:0;
+	border:1px solid #d8d8d8; font-size:13px; 
+
+
+	text-align: center;
+}
+.datepick-clear, .datepick-prev {
+	position:absolute; top:23px;*top:0;
+	 left:68px;
+	 
+	
+}
+.datepick-next, .datepick-prev { width:21px; height:25px; line-height:25px;_height:23px; _line-height:23px;	text-align: center;
+border:1px solid #d8d8d8;}
+.datepick-next a, .datepick-prev a{ display:block; }
+ .datepick-next {
+		position:absolute; top:23px;*top:0;
+	 left:148px;
+
+}
+.datepick-prev{ border-right:none;}
+.datepick-next{ border-left:none;}
+.datepick-rtl .datepick-close, .datepick-rtl .datepick-next {
+	float: left;
+	text-align: left;
+}
+.datepick-header {
+
+	color: #222;
+	text-align: left;
+	height:38px;
+
+}
+.datepick-header select {
+	width:78px; height:28px; 
+ position:absolute;
+ text-indent:3px;
+
+
+}
+.datepick-new-year{ top:23px; left:-20px;*top:0;}
+.datepick-header select.datepick-new-month{ width:60px;top:23px; *top:0;left:89px; }
+.datepick-header span {
+	position: relative;
+	top: 3px;
+}
+.datepick {
+	text-align: center;
+	font-size: 100%;
+}
+.datepick a {
+	display: block;
+	width: 100%;
+}
+.datepick-title-row th {
+	text-align: center;
+	border:1px solid #ddd;
+	font-size:14px; height:22px;
+	
+}
+.datepick-week-col {
+	background: #e0e0e0;
+}
+.datepick-days-cell {
+	border: 1px solid #ddd;
+	height:98px;
+}
+.datepick-days-cell a {
+	display: block;
+	
+	color:#555555;
+	font-size:24px;
+	cursor:default;
+	
+}
+.datepick-other-month a {
+
+	color:#ccc;
+}
+.datepick-unselectable {
+	color: #888;
+}
+.datepick-week-over a {
+	background: #e0e0e0;
+	
+}
+
+.datepick-current-day{	background-color:#fafade;}
+.hasdata{
+
+	background-color:#fdeeee;
+	
+}
+.hasdata ,#datepick-div .hasdata a , .datepick-inline .hasdata a{
+
+		color: #e36466;
+		cursor:pointer;
+}
+.datepick-current-day a{color: #555;}
+
+.datepick-status {
+	width: 100%;
+	font-size: 80%;
+	text-align: center;
+}
+
+.datepick-inline .datepick-links a {
+	padding: 0 5px !important;
+}
+.datepick-control a, .datepick-links a {
+	padding: 2px 5px !important;
+	color: #222 !important;
+}
+.datepick-control a:hover {
+	background: #ffd0d0;
+}
+
+.datepick-multi .datepick {
+	border: 1px solid #aaa;
+}
+.datepick-one-month {
+
+	width: 820px;
+	
+}
+.datepick-new-row {
+	clear: left;
+}
+/* ___________ IE6 IFRAME FIX ________ */
+.datepick-cover {
+    display: none; /*sorry for IE5*/
+    display/**/: block; /*sorry for IE5*/
+    position: absolute; /*must have*/
+    z-index: -1; /*must have*/
+    filter: mask(); /*must have*/
+    top: -1px; /*must have*/
+    left: -1px; /*must have*/
+    width: 187px; /*must have*/
+    height: 187px; /*must have*/
+}
+.hasdata  ul{ cursor:default;}
