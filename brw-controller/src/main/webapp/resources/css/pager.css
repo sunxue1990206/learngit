@@ -1,8 +1,0 @@
-/* jquery.page.js css  */
-ul.pages {display:block;border:none;text-transform:uppercase;font-size:12px;margin:10px 0 50px;padding:0; color:#777;float: right;}
-ul.pages li {float:left;margin-left:10px;min-width:10px; padding:0 5px; height:20px; line-height:20px; border:1px solid #ddd; background-color:#fff; border-radius:3px; text-align:center;font-weight: normal; cursor:pointer;}
-/*ul.pages li.pgEmpty {}*/
-ul.pages li.thpoint {border:none;cursor:auto; color:#000;background-color:#fff;}
-ul.pages li:hover,ul.pages li.pgCurrent{
-	background-color:#e36466; border:1px solid #e36466; color:#fff; text-decoration:none;}
-ul.pages li.thpoint:hover{ background:none; border:none; color:#000;}
